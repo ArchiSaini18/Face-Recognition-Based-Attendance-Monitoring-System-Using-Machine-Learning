@@ -1,4 +1,4 @@
-🎯 Face Recognition–Based Attendance Monitoring System
+🎯 **Face Recognition–Based Attendance Monitoring System**
 
 This project implements an automated attendance system using computer vision and a graphical user interface (GUI) built with Tkinter. 
 The system detects and recognizes faces of registered users via webcam, logs their attendance in real time, and even allows sending daily attendance reports via email.
